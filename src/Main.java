@@ -74,7 +74,6 @@ public class Main {
             entries[enCount] = entry;
             enCount++;
             System.out.println("Запис додано успішно!");
-            //Під що треба писати код: https://open.spotify.com/track/1njcHKYFgRxEdqOJMSaJEp?si=1fa79290a89e42c4
         }
 
     }
